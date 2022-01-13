@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: yello-ow/yello-ow.github.com
-repository_tree: master
+repository_tree: main
 
 
 ## => Paths
@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: "disqus" # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: yellog # the Disqus shortname for the site
+    shortname:  # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
